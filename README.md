@@ -1,4 +1,4 @@
-# Shane Todd — Decision Intelligence & AI Engineering
+# Shane Todd — Data Engineering, Decision Intelligence & AI Engineering
 
 I am an Operations Research Systems Analysis (ORSA) professional transitioning into civilian data and software engineering roles. I've build trustworthy data products that turn complex operational data into decisions through data engineering, applied analytics, agentic AI, and user-centered applications.
 
