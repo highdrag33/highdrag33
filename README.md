@@ -1,4 +1,4 @@
-# Shane Todd — Data Engineering, Decision Intelligence & AI Engineering
+# Shane Todd — Decision Intelligence & AI and Data Engineering
 
 I am an Operations Research Systems Analysis (ORSA) professional transitioning into civilian data and software engineering roles. I've built trustworthy data products that turn complex operational data into decisions through data engineering, applied analytics, agentic AI, and user-centered applications.
 
@@ -14,9 +14,9 @@ My professional work has included Palantir Foundry data pipelines and ontology-b
 | Application engineering | Type-safe APIs and decision workflows built with TypeScript and React | [Operations Control Center](#4-operations-control-center) |
 | Platform thinking | Ontology-style domain models, event-driven workflows, CI/CD, and documentation | Architecture decisions and tests in every project |
 
-## Featured Planned projects 
+## Featured projects 
 
-### 1. Decision Readiness Platform (in progress)
+### 1. Decision Readiness Platform (In Progress)
 
 An end-to-end data platform built from public transportation, disaster-response, or supply-chain data. It ingests batch and streaming sources, validates contracts, builds curated analytical models, and serves decision-ready metrics through an API and dashboard.
 
@@ -24,7 +24,7 @@ An end-to-end data platform built from public transportation, disaster-response,
 
 **Employer story:** “I can own the path from unreliable source data to a trusted operational product.”
 
-### 2. Resource Allocation Lab (incomplete)
+### 2. Resource Allocation Lab (Incomplete)
 
 An interactive optimization and simulation application that allocates constrained people, equipment, or relief supplies under uncertain demand. Users can change assumptions, compare policies, and inspect tradeoffs rather than receiving a black-box answer.
 
@@ -32,7 +32,7 @@ An interactive optimization and simulation application that allocates constraine
 
 **Employer story:** “I translate ambiguous operational questions into defensible decision models.”
 
-### 3. Analyst Copilot (incomplete)
+### 3. Analyst Copilot (Incomplete)
 
 A tool-using agent that investigates a synthetic operational dataset, queries documented tools, produces evidence-linked findings, and pauses for human approval before consequential actions. An evaluation suite measures answer correctness, tool selection, citation quality, latency, and cost.
 
@@ -40,7 +40,7 @@ A tool-using agent that investigates a synthetic operational dataset, queries do
 
 **Employer story:** “I engineer reliable agent systems, not just demos that happen to chat.”
 
-### 4. Operations Control Center (incomplete)
+### 4. Operations Control Center (Incomplete)
 
 A TypeScript application built around an ontology-style domain model: assets, requirements, missions, locations, events, and decisions. It exposes a generated/type-safe client, supports workflow actions, and maintains a complete audit trail.
 
@@ -84,7 +84,7 @@ This portfolio is intentionally vendor-aware but vendor-independent. It demonstr
 
 - GitHub: [highdrag33](https://github.com/highdrag33)
 - Email: [shane.m.todd@gmail.com](mailto:shane.m.todd@gmail.com)
-- LinkedIn: _add your public LinkedIn URL_
-- Résumé: _add a sanitized PDF or personal-site link_
+- LinkedIn: pending updated profile
+- Résumé: pending competition
 
 
