@@ -1,6 +1,6 @@
 # Shane Todd — Data Engineering, Decision Intelligence & AI Engineering
 
-I am an Operations Research Systems Analysis (ORSA) professional transitioning into civilian data and software engineering roles. I've build trustworthy data products that turn complex operational data into decisions through data engineering, applied analytics, agentic AI, and user-centered applications.
+I am an Operations Research Systems Analysis (ORSA) professional transitioning into civilian data and software engineering roles. I've built trustworthy data products that turn complex operational data into decisions through data engineering, applied analytics, agentic AI, and user-centered applications.
 
 My professional work has included Palantir Foundry data pipelines and ontology-backed workflows, agentic AI built in ADK-style repositories, Workshop applications, OSDK integrations, and TypeScript services. This public portfolio uses synthetic or openly licensed data and contains no customer, proprietary, controlled, or operational information.
 
