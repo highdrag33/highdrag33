@@ -22,15 +22,11 @@ An end-to-end data platform built from public transportation, disaster-response,
 
 **Signals:** Python, SQL, dbt, DuckDB/PostgreSQL, Dagster/Airflow, data contracts, quality tests, lineage, Docker, CI.
 
-**Employer story:** “I can own the path from unreliable source data to a trusted operational product.”
-
 ### 2. Resource Allocation Lab (Incomplete)
 
 An interactive optimization and simulation application that allocates constrained people, equipment, or relief supplies under uncertain demand. Users can change assumptions, compare policies, and inspect tradeoffs rather than receiving a black-box answer.
 
 **Signals:** operations research, mixed-integer optimization, Monte Carlo simulation, sensitivity analysis, explainability, experiment design.
-
-**Employer story:** “I translate ambiguous operational questions into defensible decision models.”
 
 ### 3. Analyst Copilot (Incomplete)
 
@@ -38,15 +34,11 @@ A tool-using agent that investigates a synthetic operational dataset, queries do
 
 **Signals:** agent orchestration, structured outputs, retrieval, tool calling, guardrails, tracing, evals, failure analysis.
 
-**Employer story:** “I engineer reliable agent systems, not just demos that happen to chat.”
-
 ### 4. Operations Control Center (Incomplete)
 
 A TypeScript application built around an ontology-style domain model: assets, requirements, missions, locations, events, and decisions. It exposes a generated/type-safe client, supports workflow actions, and maintains a complete audit trail.
 
 **Signals:** TypeScript, React/Next.js, API design, schema generation, authorization, state machines, event history, testing.
-
-**Employer story:** “I connect governed enterprise data to usable frontline workflows.”
 
 ## Engineering principles
 
